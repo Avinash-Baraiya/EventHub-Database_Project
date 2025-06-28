@@ -12,7 +12,7 @@ EventHub manages the complete event booking lifecycle - from user registration t
 ![EventHub ER Diagram](./erd_diagram.jpg)
 
 ### Relational Schema
-![Database Schema](./relational_schema.png)
+![Database Schema](./relational_schema.jpg)
 
 ## 🗃️ Database Tables
 
